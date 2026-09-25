@@ -54,7 +54,7 @@ Flare Stack Blog 是一个深度拥抱 Cloudflare 生态的开源独立博客系
   - **安全身份认证**：集成 Better Auth，原生支持邮箱密码账号体系与 GitHub OAuth 快捷登录。
   - **开放 API 接口**：支持在后台签发 API Key，通过规范化 OpenAPI / oRPC 接口无缝对接第三方自动化工具或发布脚本。
   - **访问分析与 SEO**：内建 Umami 统计与文章热度自动同步，开箱支持 Canonical、Schema.org、RSS / Atom / JSON Feed、Sitemap 与 Robots 标准。
-
+ 
 ## 技术栈
 
 | 模块 | 选型 | 说明 |
